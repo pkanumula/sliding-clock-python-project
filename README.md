@@ -77,5 +77,3 @@ To run this project locally, please follow these steps:
 5.  The Flask `/time` route calculates the current time and returns it as JSON.
 6.  The JavaScript receives the JSON and updates the inner HTML of the clock digits.
 7.  CSS transitions handle the visual "sliding" animation when the content of the digits changes.
-
-## File Structure
