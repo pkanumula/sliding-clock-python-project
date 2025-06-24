@@ -16,11 +16,6 @@ A full-stack web application that displays a real-time clock with a smooth slidi
 
 The **Sliding Clock** is a minimalist web application designed to showcase a fluid user interface powered by a Python backend. The Flask web framework serves as the backbone, providing the current time through a RESTful API endpoint. The frontend utilizes vanilla JavaScript to consume this API and dynamically render the time, creating an elegant "sliding" visual effect for each digit change.
 
-## Live Demo
-
-**(Highly recommended to create a short GIF of the clock in action!)**
-
-![Demo GIF](https://i.imgur.com/YOUR_IMAGE_URL.gif)
 
 ## Features
 
